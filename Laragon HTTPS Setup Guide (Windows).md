@@ -169,6 +169,4 @@ Now, whenever you need a new local project:
 
 Using `.test` and trusting the Laragon certificate gives you a secure, consistent local dev experience — especially for WordPress, WooCommerce, or API work requiring HTTPS.
 
-Let me know if you'd like to extend this to auto-install WordPress, set up the database, or configure WP-CLI.
-
 Happy coding! 🧑‍💻🔒
